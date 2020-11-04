@@ -1,4 +1,4 @@
-# botst4rz
+# REUZ BOT
 BOT WHATSAPP HP REUZ
 
 ### Alat dan Bahan
