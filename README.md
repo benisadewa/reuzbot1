@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/benisadewa/reuzbot01
-> cd botst4rz
+> git clone https://github.com/benisadewa/reuzbot1.git
+> cd botreuz1
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
